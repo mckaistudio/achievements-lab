@@ -9,6 +9,11 @@ A public practice repository for learning GitHub, collaborating on projects, and
 - Giving and receiving constructive feedback.
 - Collaborating on real, useful open-source changes.
 
+## Free beginner resources
+
+- [Git and GitHub quick reference (English + Roman Urdu)](GIT-QUICK-REFERENCE.md) — definitions, safe local practice, and common errors.
+- [Questions and answers](https://github.com/mckaistudio/achievements-lab/discussions) — ask for help with the exercises.
+
 ## Your first GitHub contribution
 
 You can practice entirely in your browser:
